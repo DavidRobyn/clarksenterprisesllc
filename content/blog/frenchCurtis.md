@@ -13,17 +13,17 @@ banner = "img/banners/frenchCurtisSign.jpg"
 <img src="../../../../../img/frenchCurtisLivingRoom.jpg" class="float-left" style="max-width: 20%">
 
 There are five rooms available, each with their own key and includes
-<li><ul>full bathroom</ul>
-<ul>TV</ul>
-<ul>refrigerator</ul></li>
+<ul><li>full bathroom</li>
+<li>TV</ul>
+<li>refrigerator</li></ul>
 
 One room has a twin bed, the others have queen beds.
 
 There is a shared common area which includes
-<li><ul>living room</ul>
-<ul>dining room</ul>
-<ul>fully equipped kitchen</ul>
-<ul>laundry facilities</ul></li>
+<ul><li>living room</li>
+<li>dining room</li>
+<li>fully equipped kitchen</li>
+<li>laundry facilities</li></ul>
 
 Cable and internet included.
 
