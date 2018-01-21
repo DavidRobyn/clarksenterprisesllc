@@ -14,7 +14,7 @@ banner = "img/banners/frenchCurtisSign.jpg"
 
 There are five rooms available, each with their own key and includes
 <ul><li>full bathroom</li>
-<li>TV</ul>
+<li>TV</li>
 <li>refrigerator</li></ul>
 
 One room has a twin bed, the others have queen beds.
