@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://clarksenterprisesllc.netlify.com/"
 title = "Clark's Enterprises, LLC"
 theme = "hugo-universal-theme"
 themesDir = "themes"
