@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Depot on Clark&#39;s Enterprises, LLC</title>
+    <link>https://clarksenterprisesllc.netlify.com/tags/depot/</link>
+    <description>Recent content in Depot on Clark&#39;s Enterprises, LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, Clark&#39;s Enterprises, LLC; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 20 Jan 2018 12:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://clarksenterprisesllc.netlify.com/tags/depot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Depot</title>
+      <link>https://clarksenterprisesllc.netlify.com/blog/2018/01/20/thedepot/</link>
+      <pubDate>Sat, 20 Jan 2018 12:39:46 +0200</pubDate>
+      
+      <guid>https://clarksenterprisesllc.netlify.com/blog/2018/01/20/thedepot/</guid>
+      <description>This is just here to show you that when ready, you can add more properties using the CMS. Lorem ipsum and all that.</description>
+    </item>
+    
+  </channel>
+</rss>

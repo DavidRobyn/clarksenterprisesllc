@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clark&#39;s Enterprises, LLC</title>
+    <link>https://clarksenterprisesllc.netlify.com/</link>
+    <description>Recent content on Clark&#39;s Enterprises, LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, Clark&#39;s Enterprises, LLC; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 20 Jan 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://clarksenterprisesllc.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>French and Curtis House</title>
+      <link>https://clarksenterprisesllc.netlify.com/blog/2018/01/20/frenchcurtis/</link>
+      <pubDate>Sat, 20 Jan 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://clarksenterprisesllc.netlify.com/blog/2018/01/20/frenchcurtis/</guid>
+      <description>Conveniently located in the center of Guilford with snowmobile access to snowmobile trails. There are five rooms available, each with their own key and includes a full bathroom, TV and refrigerator. One room has a twin bed, the others have queen beds.
+There is a shared common area which includes living room, dining room, fully equipped kitchen, and laundry. Cable and internet included.
+Off-street parking to accomodate snowmobile trailers.</description>
+    </item>
+    
+    <item>
+      <title>The Depot</title>
+      <link>https://clarksenterprisesllc.netlify.com/blog/2018/01/20/thedepot/</link>
+      <pubDate>Sat, 20 Jan 2018 12:39:46 +0200</pubDate>
+      
+      <guid>https://clarksenterprisesllc.netlify.com/blog/2018/01/20/thedepot/</guid>
+      <description>This is just here to show you that when ready, you can add more properties using the CMS. Lorem ipsum and all that.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://clarksenterprisesllc.netlify.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://clarksenterprisesllc.netlify.com/contact/</guid>
+      <description>If you have any further questions or comments our address, phone, and email information is to the right, or use the form below.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://clarksenterprisesllc.netlify.com/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://clarksenterprisesllc.netlify.com/faq/</guid>
+      <description>IS SMOKING ALLOWED? Smoking is NOT allowed inside our properties.
+ARE PETS ALLOWED? We&amp;rsquo;re sorry, at this time our properties are not suitable for pets.
+WHAT ABOUT YOUNG CHILDREN? We currently have no child-proofing, cribs, or other items for our properties to be suitable for children under 2 years old.
+WHAT IS THE CANCELLATION POLICY? Cancel up to 24 hours before check in and get a full refund (minus service fees).</description>
+    </item>
+    
+  </channel>
+</rss>
